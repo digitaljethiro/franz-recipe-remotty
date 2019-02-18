@@ -1,0 +1,13 @@
+{
+  "id": "remotty",
+  "name": "Remotty",
+  "version": "1.0.10",
+  "description": "WhatsApp",
+  "main": "index.js",
+  "author": "Katsuhiro Masaki <hiro@digitaljet.co.jp>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.remotty.net/",
+    "hasNotificationSound": true
+  }
+}
